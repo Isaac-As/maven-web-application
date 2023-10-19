@@ -13,7 +13,8 @@
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires and billionaires IT professionals in over 50 nations.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
-	Class34 DevOps Master-Class started on Oct 14, 2023. Here we change lives. Come for your own change</h1>
+	Class34 DevOps Master-Class started on Oct 14, 2023. Here we change lives. Come for your own change. br
+	please, don't hesitate to reach for further info</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
